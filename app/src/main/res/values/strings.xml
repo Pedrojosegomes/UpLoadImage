@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UpLoadImage</string>
+    <string name="loja">Loja Virtual</string>
+    <string name="bem_vindo">Bem Vindo</string>
+    <string name="buscar">Buscar</string>
+    <string name="visitar">Visitar</string>
+    <string name="detalhes">Detalhes</string>
+</resources>
